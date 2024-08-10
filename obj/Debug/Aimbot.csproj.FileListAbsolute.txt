@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Aimbot\Aimbot\obj\Debug\Aimbot.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Aimbot\Aimbot\obj\Debug\Aimbot.Form1.resources
+C:\Users\user\source\repos\Aimbot\Aimbot\obj\Debug\Aimbot.Properties.Resources.resources
+C:\Users\user\source\repos\Aimbot\Aimbot\obj\Debug\Aimbot.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Aimbot\Aimbot\obj\Debug\Aimbot.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Aimbot\Aimbot\bin\Debug\Aimbot.exe.config
+C:\Users\user\source\repos\Aimbot\Aimbot\bin\Debug\Aimbot.exe
+C:\Users\user\source\repos\Aimbot\Aimbot\bin\Debug\Aimbot.pdb
+C:\Users\user\source\repos\Aimbot\Aimbot\obj\Debug\Aimbot.exe
+C:\Users\user\source\repos\Aimbot\Aimbot\obj\Debug\Aimbot.pdb
